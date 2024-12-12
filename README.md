@@ -10,4 +10,4 @@
 - Object Types
 - Type Aliases And Interfaces
 - Union Types
-- Tuples
+- [Tuples](https://github.com/Training-241209/david-zheng/blob/main/TypeScriptBasics.MD)
