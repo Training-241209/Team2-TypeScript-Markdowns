@@ -10,10 +10,10 @@
 
 ## Links
 
-- TypeScript Basics
-- Simple Types
-- Special Types
-- Object Types
-- Type Aliases And Interfaces
-- Union Types
-- [Tuples](https://github.com/Training-241209/david-zheng/blob/main/TypeScriptBasics.MD)
+- [TypeScript Basics](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/TypeScriptBasics.md) - Linval Bailey
+- [Simple Types](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/SimpleTypes.md) - Octavian Carteleanu
+- [Special Types](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/Special_Types_TS.md) - Brendon Dong
+- [Object Types](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/objectType.md) - Patrick Ferguson
+- [Type Aliases](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/TypeAliasesAndInterfaces.md) And Interfaces - Justin Lui
+- [Union Types](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/UnionTypes.md) - John Neilson
+- [Tuples](https://github.com/Training-241209/Team2-TypeScript-Markdowns/blob/main/Tuples.md) - David Zheng
