@@ -27,10 +27,13 @@ console.log(person);
 ```
 
 Output:
+
+```console
 {
 name: "bob",
 age: 65
 }
+```
 
 An object type can not be ressigned to a primitive type.
 This will result in an error.
@@ -70,10 +73,12 @@ printPerson({ name: "Dan", age: 45 });
 
 ### Output:
 
+```console
     Name: bob
     Age: 100
     Name: Dan
     Age: 45
+```
 
 ### Optional properties:
 
@@ -91,7 +96,9 @@ printPerson({ name: "Dan" });
 
 ### Output:
 
+```console
     Name: bob
     Age: 100
     Name: Dan
     Age: undefined
+```
